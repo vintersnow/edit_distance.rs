@@ -1,0 +1,7 @@
+[package]
+name = "edit_distance"
+version = "0.1.0"
+authors = ["vinter <ankasandora@gmail.com>"]
+
+[dependencies]
+getopts = "0.2"
